@@ -10,7 +10,7 @@ body {
  background-color:black;
 }
 
-.col-sm-7, .col-sm-5, .chat-box, 
+.col-sm-7, .col-sm-5, .chat-box, .panel-body 
 {
     background-color:transparent;
 }

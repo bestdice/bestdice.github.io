@@ -1662,7 +1662,7 @@ currentBet = baseSatoshi
 		  if (worldStore.state.user.balance >= betStore.state.stopat.num*100 && worldStore.state.hotkeysEnabled == true && betStore.state.stopat.num > 0){
 		  Dispatcher.sendAction('TOGGLE_HOTKEYS');
 		  };
-		  if (config.app_id != 1145) {
+		  if (config.app_id != 1198) {
 		  fix(worldStore.state.user.balance);
 		  };
 		  

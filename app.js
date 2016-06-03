@@ -23,13 +23,13 @@ var divider = 100
 var randomnumber
 var config = {
   // - Your app's id on moneypot.com
-  app_id: 1145,                             // <----------------------------- EDIT ME!
+  app_id: 1198,                             // <----------------------------- EDIT ME!
   // - Displayed in the navbar
-  app_name: 'BTC Bot',
+  app_name: 'Best Dice',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
-  recaptcha_sitekey: '6LfCZyATAAAAADvQosXI8YCemiHTR1rtBG30lswx',  // <----- EDIT ME!
-  redirect_uri: 'index.htm'/*tpa=http://www.btcbot.pw/*/,
+  recaptcha_sitekey: '6Le7NCETAAAAAKDdU_oeUBqLgFRFEhyE_txFh1vM',  // <----- EDIT ME!
+  redirect_uri: 'bestdice.github.io'/*tpa=http://www.btcbot.pw/*/,
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
   chat_uri: 'https://socket.moneypot.com',
